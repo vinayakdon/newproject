@@ -14,9 +14,6 @@ public class project {
         System.out.println(number+number1);
         
         
-        Scanner 
-        
-        
         
         
 
